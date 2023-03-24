@@ -1,6 +1,6 @@
 ### Hello World! Eu sou o Renan Sommerfeld ✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mynameisnanz/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://api.whatsapp.com/send?phone=+351932124645&text=Ol%C3%A1%2C%20Vi%20suas%20informa%C3%A7%C3%B5es%20no%20GitHUB%20)[![WhatsApp](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/328999094599286784)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404nanz/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://api.whatsapp.com/send?phone=+351932124645&text=Ol%C3%A1%2C%20Vi%20suas%20informa%C3%A7%C3%B5es%20no%20GitHUB%20)[![WhatsApp](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/328999094599286784)
 
 ![RenanSommerfeld GitHub stats](https://github-readme-stats.vercel.app/api?username=renansommerfeld&show_icons=true&theme=dracula)
 
